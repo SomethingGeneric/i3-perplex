@@ -13,6 +13,7 @@ My changes to Perplex's Manajaro i3 setup that I'm running on Crystal
 * `pacman-contrib`
 * `otf-font-awesome-5-free` - AUR
 * `noto-fonts-emoji`
+* `ttf-dejavu`
 * `xorg`, `xorg-xinit` (obviously)
 
 ## Install
