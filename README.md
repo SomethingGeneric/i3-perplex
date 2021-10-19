@@ -7,6 +7,7 @@ My changes to Perplex's Manajaro i3 setup that I'm running on Crystal
 * `rofi`
 * `flameshot`
 * `pavucontrol`
+* `nm-applet`
 * `kitty`
 * `ame` - AUR or Crystal repos 
 	* Or, edit polybar's `pacupdates` module for non-Crystal systems
