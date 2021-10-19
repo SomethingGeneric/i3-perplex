@@ -174,7 +174,7 @@ type = custom/script
 interval = 3600
 format-underline = #DA70D6
 click-left = "kitty ame upg"
-exec = "echo Updates: $(checkupdates | wc -l)" 
+exec = "echo  $(checkupdates | wc -l)" 
 
 [module/audio]
 type = internal/alsa
