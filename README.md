@@ -5,10 +5,11 @@ My changes to Perplex's Manajaro i3 setup that I'm running on Crystal
 * `i3-gaps`
 * `polybar`
 * `rofi`
-* `flameshot`
 * `pavucontrol`
 * `nm-applet`
 * `kitty`
+* `sharenix-git` AUR
+	* `gnome-screenshot` for default polybar screenshot config
 * `ame` - AUR or Crystal repos 
 	* Or, edit polybar's `pacupdates` module for non-Crystal systems
 * `pacman-contrib`

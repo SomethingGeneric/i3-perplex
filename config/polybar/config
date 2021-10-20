@@ -159,7 +159,7 @@ format-underline = #f59001
 type = custom/script
 interval = 9999
 exec = "echo "
-click-left = flameshot launcher
+click-left = sharenix-section
 format-underline = #40DFA0
 
 [module/newaudio]
@@ -171,7 +171,7 @@ exec = "echo  "
 
 [module/pacupdates]
 type = custom/script
-interval = 3600
+interval = 120
 format-underline = #DA70D6
 click-left = "kitty ame upg"
 exec = "echo  $(checkupdates | wc -l)" 
