@@ -25,3 +25,6 @@ My changes to Perplex's Manajaro i3 setup that I'm running on Crystal
 
 # This project has moved:
 [GitLab Repository](https://gitlab.mattcompton.dev/matt/i3-perplex)
+
+# This project has moved:
+[GitLab Repository](https://gitlab.mattcompton.dev/matt/i3-perplex)
