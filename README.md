@@ -21,3 +21,7 @@ My changes to Perplex's Manajaro i3 setup that I'm running on Crystal
 ## Install
 * `mkdir -p ~/.config`
 * `cp -rv config/* ~/.config/.`
+
+
+# This project has moved:
+[GitLab Repository](https://gitlab.mattcompton.dev/matt/i3-perplex)
